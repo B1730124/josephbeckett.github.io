@@ -2012,7 +2012,7 @@
 	}
 
 	label {
-		color: #555;
+		color: #ffffff;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 400;
@@ -2117,7 +2117,7 @@
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #666;
+			color: #ffffff;
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
