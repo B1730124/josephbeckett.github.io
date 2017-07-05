@@ -1,1 +1,0 @@
-# josephbeckett.github.io
